@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, pentesting, web development, multi-booting and building hackintoshes
 - 🌱 I’m currently pursuing B.Tech in Computer Engineering 
 - 📫 How to reach me-> email: kushagra.sharma111@nmims.edu.in
-- 💳 To show thanks for a piece of code that may have helped you, don't buy me a coffee, donate to Wikipedia or Archive.org instead.
+- 💳 To show thanks for a piece of code that may have helped you, don't buy me a coffee, donate to Wikipedia or Archive.org instead, they need it!
 
 <!---
 big-mac-overflow/big-mac-overflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
